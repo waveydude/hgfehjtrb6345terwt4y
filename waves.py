@@ -15,7 +15,6 @@ size = '7.5'
 
 #logging in 
 def login():
-	session=requests.Session()
 	print('Initializing Login...')
 	headers={
 	'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36'
