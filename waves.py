@@ -5,7 +5,7 @@ import re
 import BeautifulSoup
 import timeit
 import time
-
+#todo implement 2captcha token retrieval, checkout/pay, multithreading, maybe check cart
 
 email=""
 password=""
